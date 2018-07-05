@@ -2,3 +2,6 @@
 "that's easy" 
 "orange" 
 "peach"  
+"blackberry" 
+"another berry" 
+
